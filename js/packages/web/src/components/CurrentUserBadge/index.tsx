@@ -142,7 +142,7 @@ const AddFundsModal = (props: {
                 lineHeight: 1,
               }}
             >
-              <img src="/sol.svg" width="10" />
+              <img src="/fyfy.svg" width="10" />
             </span>{' '}
             SOL
           </span>
@@ -476,7 +476,7 @@ export const CurrentUserBadgeMobile = (props: {
         <span className="balance-title">Balance</span>
         <span>
           <span className="sol-img-wrapper">
-            <img src="/sol.svg" width="10" />
+            <img src="/fyfy.svg" width="10" />
           </span>{' '}
           {formatNumber.format(balance)}&nbsp;&nbsp; SOL{' '}
           <span

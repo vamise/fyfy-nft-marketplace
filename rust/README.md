@@ -71,7 +71,7 @@ Please be aware though that it will eventually see a major rewrite to use the SD
 the [metaplex program library][mpl] as stated above. Thus we may choose to hold off on
 merging features that aren't essential to most of our users and focus on merging fixes instead.
 
-[mpl]:https://github.com/vamise/fyfy-fyfy-nft-marketplace-program-library
+[mpl]:https://github.com/vamise/fyfy-nft-marketplace-program-library
 [spl]:https://github.com/solana-labs/solana-program-library
-[metaplex]:https://github.com/vamise/fyfy-fyfy-nft-marketplace
+[metaplex]:https://github.com/vamise/fyfy-nft-marketplace
 [deprecated]:https://github.com/metaplex-foundation/the-graveyard

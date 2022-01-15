@@ -15,15 +15,15 @@ NFT marketplace is comprised of two core components: an on-chain program, and a 
 
 ## Official NFT Marketplace Docs and Guide (coming soon)
 
-You can check out our docs at https://nft.fyfy.io/docs/
+You can check out our docs at https://docs.nft.fyfy.io/
 
 ## Installing
 
 Clone the repo, and run `yarn start` to deploy.
 
 ```bash
-$ git clone https://github.com/vamise/nft-marketplace.git
-$ cd nft-marketplace/js
+$ git clone https://github.com/vamise/fyfy-fyfy-nft-marketplace.git
+$ cd fyfy-nft-marketplace/js
 $ yarn install && yarn bootstrap && yarn build
 $ yarn start
 ```
@@ -41,7 +41,7 @@ We have a few channels for contact:
 
 - [Discord](https://discord.gg/https://discord.com/channels/918811466071683083/918811466801504260)
 - [@fyfyio](https://twitter.com/fyfyio) on Twitter
-- [GitHub Issues](https://github.com/vamise/nft-marketplace/issues)
+- [GitHub Issues](https://github.com/vamise/fyfy-fyfy-nft-marketplace/issues)
 
 # Protocol
 
